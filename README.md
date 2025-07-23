@@ -8,6 +8,7 @@ Chart showing the Premier League🏴󠁧󠁢󠁥󠁮󠁧󠁿 standings of the to
 ![iamge_alt](https://github.com/Siphe247/Bumpy-charts/blob/88873b3ff47dcf2e5684b861bc3745ea8dc648ef/Premier%20League%2024-25%20top%205%20bumpy%20chart.png)
 
 3. The league standing of each side (in order of standings):🏁
+
 The final league standings can be found here:
 🔗: https://www.fotmob.com/en-GB/leagues/47/overview/premier-league?season=2024-2025
 
